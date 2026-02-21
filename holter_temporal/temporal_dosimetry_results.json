@@ -1,0 +1,24 @@
+{
+  "n_subjects": 18,
+  "n_windows": 4582,
+  "state_distribution": {
+    "rest": 52.9,
+    "vasoconstriction": 35.07,
+    "vasodilation": 12.03
+  },
+  "population_sar_factor": 1.0315,
+  "cumulative_sar_mean": 1.0316,
+  "cumulative_sar_median": 1.0384,
+  "cumulative_sar_min": 0.919,
+  "cumulative_sar_max": 1.1037,
+  "cumulative_sar_sd": 0.0613,
+  "vasoconstriction_pct_mean": 35.1,
+  "vasoconstriction_pct_max": 62.8,
+  "max_continuous_vasoconst_min": 670.0,
+  "max_continuous_vasoconst_mean_min": 245.6,
+  "avg_sar_modern": 0.723,
+  "avg_sar_traditional": 0.1565,
+  "ratio_modern_standard": 0.723,
+  "ratio_modern_traditional": 4.62,
+  "worst_period_sar": 1.165
+}
